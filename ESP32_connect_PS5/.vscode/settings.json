@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "bt_types.h": "c",
+        "esp_spp_api.h": "c",
+        "esp_log.h": "c",
+        "esp_bt_device.h": "c",
+        "esp_bt.h": "c",
+        "ps5.h": "c",
+        "ps5_int.h": "c",
+        "esp_gap_bt_api.h": "c",
+        "l2cdefs.h": "c",
+        "btm_api.h": "c"
+    }
+}
