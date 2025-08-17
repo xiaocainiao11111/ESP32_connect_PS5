@@ -9,6 +9,16 @@
         "ps5_int.h": "c",
         "esp_gap_bt_api.h": "c",
         "l2cdefs.h": "c",
-        "btm_api.h": "c"
+        "btm_api.h": "c",
+        "uni_property.h": "c",
+        "stdbool.h": "c",
+        "uni_common.h": "c",
+        "stdint.h": "c",
+        "uni_log.h": "c",
+        "uni_bt.h": "c",
+        "uni_bt_allowlist.h": "c",
+        "uni_bt_defines.h": "c",
+        "inttypes.h": "c",
+        "uni_bt_bredr.h": "c"
     }
 }
