@@ -11,3 +11,4 @@
 - https://github.com/ricardoquesada/bluepad32-arduino
 - https://bluepad32.readthedocs.io/en/latest/
 - https://github.com/xiaocainiao11111/pio-bluepad32-controller
+- https://github.com/maxgerhardt/pio-bluepad32-controller(可用)
